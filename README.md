@@ -1,21 +1,21 @@
 
-# 🎙️ Speech Emotion Recognition Web App
+#  Speech Emotion Recognition Web App
 
 A Streamlit-based web application for analyzing emotions and gender from speech using pre-trained deep learning models.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🎧 Upload `.wav`, `.mp3`, or `.ogg` audio files
-- 🧠 Predict emotions (3, 6, or 7-class) using MFCC-based models
-- 👤 Gender classification from voice
-- 📈 Visualizations: waveform, spectrogram, and polar plots
-- 🔬 Built-in test audio for quick demo
+-  Upload `.wav`, `.mp3`, or `.ogg` audio files
+-  Predict emotions (3, 6, or 7-class) using MFCC-based models
+-  Gender classification from voice
+-  Visualizations: waveform, spectrogram, and polar plots
+-  Built-in test audio for quick demo
 
 ---
 
-## 🛠 Installation
+##  Installation
 
 Make sure Python 3.8–3.10 is installed on your machine.
 
@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Running the App
+##  Running the App
 
 Launch the web app with:
 
@@ -57,7 +57,7 @@ The app will open in your default browser at `http://localhost:8501`.
 
 ---
 
-## 📁 File & Folder Structure
+## File & Folder Structure
 
 ```
 speech-emotion-app/
